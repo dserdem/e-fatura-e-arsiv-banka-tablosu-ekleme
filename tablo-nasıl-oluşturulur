@@ -1,0 +1,14 @@
+<table> <!-- tabloyu başlatır -->
+  <tr> <!-- satırı başlatır -->
+    <th>Banka Adı</th> <!-- sütun başlığı (header) -->
+    <th>Şube</th> <!-- sütun başlığı -->
+    <th>IBAN</th> <!-- sütun başlığı -->
+    <th>Hesap Sahibi</th> <!-- sütun başlığı -->
+  </tr> <!-- başlık satırı biter -->
+  <tr> <!-- 1. veri satırı -->
+    <td>Ziraat Bankası</td> <!-- 1. sütun -->
+    <td>-</td> <!-- 2. sütun -->
+    <td>TR22 0001 0012 1471 1295 3350 01</td> <!-- 3. sütun -->
+    <td>YUSA ELEKTRİK</td> <!-- 4. sütun -->
+  </tr> <!-- satır biter -->
+</table> <!-- tablo biter -->
